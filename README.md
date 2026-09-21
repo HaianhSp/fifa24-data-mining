@@ -1,6 +1,6 @@
 # FIFA24 Player Data Mining
 
-Đồ án môn **Khai phá dữ liệu** — phân tích bộ dữ liệu chỉ số cầu thủ FIFA24 bằng các kỹ thuật Classification và Clustering.
+Bài tập lớn môn **Khai phá dữ liệu** — phân tích bộ dữ liệu chỉ số cầu thủ FIFA24 bằng các kỹ thuật Classification và Clustering.
 
 ## Mục tiêu
 
